@@ -243,17 +243,7 @@ textarea:focus {
     box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
 }
 
-/* =========================
-   FOOTER
-========================= */
-footer {
-    margin-top: 80px;
-    padding: 25px;
-    text-align: center;
-    background: #f1f5f9;
-    color: #6b7280;
-    font-size: 14px;
-}
+
 
 /* =========================
    RESPONSIVE
@@ -346,11 +336,11 @@ footer {
 }
 /* ===== ABOUT SECTION ===== */
 .about-section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 80px 100px;
-    gap: 80px;
+   
+  
+   
+   
+  
 }
 
 /* ===== LEFT IMAGES ===== */
@@ -544,4 +534,16 @@ h3 {
 .footer{
     background-color: #2563eb;
     color: white;
+}
+
+/* =========================
+   FOOTER
+========================= */
+footer {
+    margin-top: 80px;
+    padding: 25px;
+    text-align: center;
+    background: #f1f5f9;
+    color: #6b7280;
+    font-size: 14px;
 }
