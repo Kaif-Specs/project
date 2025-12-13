@@ -17,6 +17,7 @@ body {
     background: linear-gradient(135deg, #f0f7ff, #ffffff);
     color: #1f2933;
     line-height: 1.6;
+    background-color: #212124;
 }
 
 /* =========================
@@ -304,8 +305,9 @@ textarea:focus {
 }
 
 .testimonial-card img {
-  width: 80px;
-  height: 80px;
+ width: 130px;
+    height: 130px;
+    margin-bottom: 0;
   border-radius: 50%;
   margin-bottom: 15px;
 }
